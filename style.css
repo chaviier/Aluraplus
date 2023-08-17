@@ -85,3 +85,14 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
+.secundario__botao {
+    display: inline-block;
+}
+
+.terceiro__container {
+    display: flex;
+}
+.secundario__img2 {
+    width: 60%;
+}
